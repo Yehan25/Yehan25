@@ -1,4 +1,4 @@
-# Hi there, I'm Yehan Chiranjeewa 👋
+# Hi there, I'm Yehan Fernando 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yehan25&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
