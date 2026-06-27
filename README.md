@@ -16,7 +16,7 @@
 - 💻 Passionate about Software Development and Problem Solving
 - 🌱 Currently learning C#, ASP.NET, React.js and Laravel
 - 🖥️ Interested in Desktop Applications, Web Applications and AI-powered Solutions
-- 🗄️ Experienced with SQL Server, MySQL and MS Access
+- 🗄️ Experienced with SQL Server, MySQL
 - 🚀 Always eager to learn new technologies and build real-world software projects.
 
 ---
