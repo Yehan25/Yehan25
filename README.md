@@ -49,11 +49,6 @@
 |---------|------------|
 | ☕ Java POS System | Java + MySQL |
 | 🤖 AI Supportive Project | React.js + JavaScript |
-| 🚗 Car Rental Management System | C# + SQL Server |
-| 🎓 Learning Management System | C# + SQL Server |
-| 🏨 Hotel Booking Management System | C# |
-| ☕ Cafe Ordering System | MS Access |
-| 🏪 Sport Accessories Shop System | MS Access |
 
 ---
 
