@@ -10,7 +10,7 @@ A passionate **Higher National Diploma in Information Technology (HNDIT)** stude
 
 ### 🚀 About Me
 - 🎓 **Education:** HND in IT Student
-- 💻 **Focus:** Full-Stack Web Development & Desktop Application Development
+- 💻 **Focus:** Full-Stack Web Development (PHP/Laravel & React.js) & Desktop Application Development
 - ⚡ **Fun Fact:** I love UI/UX designing as much as writing clean backend logic!
 
 ---
@@ -23,6 +23,7 @@ A passionate **Higher National Diploma in Information Technology (HNDIT)** stude
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
 </p>
 
 #### 🌐 Frontend Web Technologies
